@@ -71,6 +71,31 @@
     <body>
        
        <header>
+          <div class="top">
+            <img class="logo" src="https://www.grapheine.com/wp-content/uploads/2015/09/nouveau-logo-google-2015-768x473.jpg" alt="Google-Img"/>
+
+          </div>
+          <div class="bottom">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#">Introduzione</a>
+                    </li>
+                    <li>
+                        <a href="#">Norma sulla privacy</a>
+                    </li>
+                    <li>
+                        <a href="#">Termini di servizio</a>
+                    </li>
+                    <li>
+                        <a href="#">Tecnologie</a>
+                    </li>
+                    <li>
+                        <a class="active" href="#">Domande frequent</a>
+                    </li>
+                </ul>
+            </nav>
+          </div>
        </header>
 
        <main>
