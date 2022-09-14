@@ -6,6 +6,27 @@
 
 
 
+
+
+header{
+    height: 80px;
+    border-bottom: 2px solid;
+    margin-bottom: 3rem;
+}
+footer{
+    height: 60px;
+    background-color: blue;
+}
+
+
 .text{
 margin-top:1rem;
+font-size: 0.875rem;
+}
+
+
+main{
+    width: 95%;
+    margin: auto;
+    padding: 1rem;
 }
